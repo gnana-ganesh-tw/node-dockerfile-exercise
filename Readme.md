@@ -15,4 +15,4 @@
 
 
 #### Challenge: 
-Try to optimise the file and reduce the final image size. 
+Try to optimise the file and redubuild time 
