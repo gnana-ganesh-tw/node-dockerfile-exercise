@@ -1,4 +1,4 @@
-#Dockerfile Exercise - Node
+# Dockerfile Exercise - Node
 
 - Step: 1 -> Create a Dockerfile
 
@@ -14,5 +14,5 @@
 
 
 
-####Challenge: 
+#### Challenge: 
 Try to optimise the file and reduce the final image size. 
